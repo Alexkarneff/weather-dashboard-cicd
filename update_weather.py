@@ -71,18 +71,20 @@ def get_weather_emoji(condition):
 # FONCTION : Générer le contenu du README
 # ============================================
 
-def generate_readme(weather_data) :
-    # Crée le contenu du README.
+def generate_readme(weather_data):
     now = datetime.now(timezone.utc).strftime("%d/%m/%Y à %H:%M UTC")
 
     readme = f"""# 🌤️ Dashboard Météo - CI/CD
 
-    > Ce README est mis à jour automatiquement
-    > par GitHub Actions toutes les 6 heures !
-    ## Meteo actuelle - {now}
-    | Ville | Météo | Temp | Ressenti | Humidité | Vent |
-    |-------|-------|------|----------|----------|------|
-            """
+> Ce README est mis à jour automatiquement
+> par GitHub Actions toutes les 6 heures !
+
+## Meteo actuelle - {now}
+
+| Ville | Météo | Temp | Ressenti | Humidité | Vent |
+|-------|-------|------|----------|----------|------|
+"""
+
     for w in weather_data:
         if w:
             readme += (
@@ -93,6 +95,7 @@ def generate_readme(weather_data) :
                 f"| {w['humidity']}% "
                 f"| {w['wind']} km/h |\n"
             )
+
     return readme
 
 # ============================================

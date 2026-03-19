@@ -1,6 +1,6 @@
 import requests
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 # ============================================
 # CONFIGURATION
 # ============================================
@@ -12,7 +12,7 @@ API_KEY = os.environ.get("OPENWEATHER_API_KEY")
 
 # Liste des villes à afficher
 # Modifiez cette liste selon vos préférences !
-CITIES = ["Paris", "London", "New York", "Tokyo", "Sydney", "Besançon", "Versailles"]
+CITIES = ["Paris", "London", "New York", "Tokyo", "Sydney", "Besançon", "Versailles", "Metz", "Madrid", "Buenos Aires"]
 
 
 # URL de base de l'API OpenWeatherMap
@@ -35,6 +35,9 @@ def get_weather(city) :
         response = requests.get(BASE_URL, params=params)
         response.raise_for_status()     # Lève une erreur si status !=200 (pass)
         data = response.json()
+        # Offset UTC de la ville (en secondes)
+        tz = timezone(timedelta(seconds=data["timezone"]))
+
         return {
             "city": city,
             "temp": round(data["main"]["temp"], 1),
@@ -42,7 +45,9 @@ def get_weather(city) :
             "humidity": data["main"]["humidity"],
             "description": data["weather"][0]["description"],
             "wind": round(data["wind"]["speed"] * 3.6, 1),
-            "icon": get_weather_emoji(data["weather"][0]["main"])
+            "icon": get_weather_emoji(data["weather"][0]["main"]),
+            "sunrise": datetime.fromtimestamp(data["sys"]["sunrise"], tz=tz).strftime("%H:%M"),
+            "sunset": datetime.fromtimestamp(data["sys"]["sunset"], tz=tz).strftime("%H:%M"),
         }
     except Exception as e :
         print(f"Erreur pour {city}: {e}")
@@ -81,8 +86,8 @@ def generate_readme(weather_data):
 
 ## Meteo actuelle - {now}
 
-| Ville | Météo | Temp | Ressenti | Humidité | Vent |
-|-------|-------|------|----------|----------|------|
+| Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
+|-------|-------|------|----------|----------|------|----------|------------|
 """
 
     for w in weather_data:
@@ -93,7 +98,9 @@ def generate_readme(weather_data):
                 f"| {w['temp']}°C "
                 f"| {w['feels_like']}°C "
                 f"| {w['humidity']}% "
-                f"| {w['wind']} km/h |\n"
+                f"| {w['wind']} km/h "
+                f"| {w['sunrise']} "
+                f"| {w['sunset']} |\n"
             )
 
     return readme

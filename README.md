@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 19/03/2026 à 12:40 UTC
+## Meteo actuelle - 19/03/2026 à 18:43 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 🌞 Paris | Ciel dégagé | 15.3°C | 14.1°C | 48% | 24.1 km/h | 06:56 | 19:00 |
-| 🌞 London | Ciel dégagé | 16.8°C | 15.6°C | 44% | 9.6 km/h | 06:05 | 18:10 |
-| ☁️ New York | Couvert | 1.6°C | -2.3°C | 62% | 14.5 km/h | 07:01 | 19:06 |
-| ☁️ Tokyo | Nuageux | 14.0°C | 13.2°C | 65% | 14.8 km/h | 05:47 | 17:51 |
-| 💧 Sydney | Légère pluie | 20.8°C | 21.4°C | 92% | 16.7 km/h | 06:57 | 19:09 |
-| 🌞 Besançon | Ciel dégagé | 14.1°C | 12.9°C | 51% | 13.7 km/h | 06:40 | 18:45 |
-| 🌞 Versailles | Ciel dégagé | 14.8°C | 13.6°C | 49% | 24.1 km/h | 06:56 | 19:01 |
-| 🌞 Metz | Ciel dégagé | 16.1°C | 14.8°C | 39% | 27.8 km/h | 06:40 | 18:45 |
-| 🌞 Madrid | Ciel dégagé | 15.2°C | 13.9°C | 46% | 13.0 km/h | 07:20 | 19:25 |
-| 🌞 Buenos Aires | Ciel dégagé | 19.7°C | 19.6°C | 72% | 11.1 km/h | 06:55 | 19:06 |
+| ☁️ Paris | Nuageux | 12.5°C | 11.0°C | 46% | 12.0 km/h | 06:56 | 19:00 |
+| ☁️ London | Nuageux | 11.5°C | 10.2°C | 56% | 9.2 km/h | 06:05 | 18:10 |
+| ☁️ New York | Partiellement nuageux | 5.8°C | 2.5°C | 41% | 16.5 km/h | 07:01 | 19:06 |
+| ☁️ Tokyo | Couvert | 10.4°C | 9.2°C | 63% | 16.4 km/h | 05:45 | 17:51 |
+| 💧 Sydney | Légère pluie | 19.6°C | 20.0°C | 92% | 16.2 km/h | 06:57 | 19:07 |
+| 🌞 Besançon | Ciel dégagé | 8.9°C | 7.9°C | 68% | 7.3 km/h | 06:40 | 18:45 |
+| ☁️ Versailles | Couvert | 12.1°C | 10.5°C | 45% | 12.8 km/h | 06:56 | 19:01 |
+| 🌞 Metz | Ciel dégagé | 10.6°C | 9.2°C | 57% | 11.3 km/h | 06:40 | 18:45 |
+| ☁️ Madrid | Couvert | 13.8°C | 12.7°C | 59% | 22.2 km/h | 07:20 | 19:25 |
+| 🌞 Buenos Aires | Ciel dégagé | 26.9°C | 27.3°C | 50% | 23.0 km/h | 06:55 | 19:06 |

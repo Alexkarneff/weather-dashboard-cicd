@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 26/03/2026 à 06:57 UTC
+## Meteo actuelle - 26/03/2026 à 12:53 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 🌞 Paris | Ciel dégagé | 4°C | 0.9°C | 85% | 13.0 km/h | 06:41 | 19:11 |
-| ☁️ London | Partiellement nuageux | 2.3°C | 1.1°C | 86% | 4.8 km/h | 05:49 | 18:22 |
-| ☁️ New York | Nuageux | 7.5°C | 4.5°C | 76% | 17.7 km/h | 06:49 | 19:13 |
-| ☁️ Tokyo | Nuageux | 12.7°C | 12.4°C | 89% | 24.1 km/h | 05:37 | 17:56 |
-| 💧 Sydney | Pluie modérée | 24.4°C | 24.8°C | 75% | 4.8 km/h | 07:02 | 18:59 |
-| 🌨️ Besançon | Légères chutes de neige | 0.7°C | -2.5°C | 89% | 10.5 km/h | 06:26 | 18:55 |
-| 🌞 Versailles | Ciel dégagé | 2.8°C | -1.3°C | 87% | 16.7 km/h | 06:42 | 19:12 |
-| ☁️ Metz | Nuageux | 2.5°C | -1.5°C | 93% | 16.7 km/h | 06:25 | 18:56 |
-| 🌞 Madrid | Ciel dégagé | 5.0°C | 2.9°C | 64% | 9.3 km/h | 07:08 | 19:32 |
-| 🌫️ Buenos Aires | Brouillard | 17.4°C | 17.4°C | 85% | 0.0 km/h | 07:01 | 18:56 |
+| ⛈️ Paris | Orage | 7.7°C | 4.7°C | 71% | 18.5 km/h | 06:41 | 19:11 |
+| ☁️ London | Couvert | 9.7°C | 7.4°C | 38% | 16.7 km/h | 05:49 | 18:22 |
+| ☁️ New York | Couvert | 10.9°C | 10.0°C | 74% | 18.5 km/h | 06:49 | 19:13 |
+| ☁️ Tokyo | Nuageux | 12.0°C | 11.5°C | 86% | 20.4 km/h | 05:37 | 17:56 |
+| ☁️ Sydney | Partiellement nuageux | 18.8°C | 19.2°C | 93% | 18.5 km/h | 07:02 | 18:59 |
+| ☁️ Besançon | Couvert | 3.5°C | 0.1°C | 77% | 14.0 km/h | 06:26 | 18:55 |
+| ☁️ Versailles | Nuageux | 6.2°C | 2.6°C | 76% | 20.4 km/h | 06:42 | 19:12 |
+| ☁️ Metz | Nuageux | 7.6°C | 3.8°C | 53% | 25.9 km/h | 06:25 | 18:56 |
+| 🌞 Madrid | Ciel dégagé | 12.9°C | 11.3°C | 40% | 20.4 km/h | 07:08 | 19:32 |
+| 🌞 Buenos Aires | Ciel dégagé | 20.9°C | 20.9°C | 69% | 9.3 km/h | 07:01 | 18:56 |

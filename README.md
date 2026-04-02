@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 01/04/2026 à 18:47 UTC
+## Meteo actuelle - 02/04/2026 à 01:21 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Couvert | 9.8°C | 9.4°C | 94% | 5.5 km/h | 07:28 | 20:20 |
-| ☁️ London | Couvert | 12.4°C | 11.4°C | 66% | 11.1 km/h | 06:36 | 19:32 |
-| ☁️ New York | Nuageux | 24.4°C | 24.2°C | 49% | 22.2 km/h | 06:39 | 19:19 |
-| 💧 Tokyo | Averses de pluie | 10.0°C | 6.4°C | 95% | 33.3 km/h | 05:27 | 18:02 |
-| ☁️ Sydney | Nuageux | 16.4°C | 16.5°C | 93% | 9.3 km/h | 07:07 | 18:50 |
-| 🌞 Besançon | Ciel dégagé | 5.9°C | 4.3°C | 76% | 7.6 km/h | 07:14 | 20:03 |
-| ☁️ Versailles | Couvert | 9.1°C | 8.1°C | 96% | 7.4 km/h | 07:29 | 20:20 |
-| 🌞 Metz | Ciel dégagé | 7.4°C | 4.7°C | 61% | 14.8 km/h | 07:13 | 20:05 |
-| 🌞 Madrid | Ciel dégagé | 14.9°C | 13.5°C | 39% | 24.1 km/h | 07:58 | 20:38 |
-| ☁️ Buenos Aires | Couvert | 24.9°C | 25.6°C | 84% | 18.5 km/h | 07:05 | 18:48 |
+| ☁️ Paris | Couvert | 8.3°C | 7.7°C | 94% | 5.5 km/h | 07:26 | 20:21 |
+| ☁️ London | Couvert | 10.4°C | 9.5°C | 80% | 13.0 km/h | 06:33 | 19:34 |
+| 🌞 New York | Ciel dégagé | 14.9°C | 14.3°C | 71% | 22.2 km/h | 06:39 | 19:19 |
+| ☁️ Tokyo | Nuageux | 10.6°C | 10.1°C | 93% | 16.7 km/h | 05:27 | 18:02 |
+| ☁️ Sydney | Peu nuageux | 25.9°C | 26.1°C | 62% | 13.0 km/h | 07:07 | 18:50 |
+| 🌞 Besançon | Ciel dégagé | -2.0°C | -4.4°C | 91% | 6.0 km/h | 07:12 | 20:04 |
+| ☁️ Versailles | Couvert | 7.7°C | 6.4°C | 95% | 7.4 km/h | 07:27 | 20:22 |
+| 🌞 Metz | Ciel dégagé | 2.3°C | -0.8°C | 75% | 11.1 km/h | 07:10 | 20:06 |
+| 🌞 Madrid | Ciel dégagé | 7.5°C | 5.8°C | 56% | 9.3 km/h | 07:57 | 20:39 |
+| ☁️ Buenos Aires | Peu nuageux | 23.4°C | 24.1°C | 90% | 7.4 km/h | 07:05 | 18:48 |

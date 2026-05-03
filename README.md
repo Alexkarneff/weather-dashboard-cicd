@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 03/05/2026 à 12:47 UTC
+## Meteo actuelle - 03/05/2026 à 18:43 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Nuageux | 18.2°C | 18.1°C | 78% | 11.1 km/h | 06:27 | 21:07 |
-| ☁️ London | Nuageux | 18.6°C | 18.1°C | 61% | 16.7 km/h | 05:28 | 20:25 |
-| ☁️ New York | Couvert | 8.2°C | 4.2°C | 53% | 31.5 km/h | 05:52 | 19:53 |
-| ☁️ Tokyo | Nuageux | 19.8°C | 19.9°C | 78% | 44.5 km/h | 04:47 | 18:28 |
-| 🌞 Sydney | Ciel dégagé | 19.7°C | 19.9°C | 83% | 20.4 km/h | 06:30 | 17:13 |
-| ☁️ Besançon | Couvert | 17.4°C | 16.5°C | 50% | 21.1 km/h | 06:16 | 20:48 |
-| ☁️ Versailles | Nuageux | 17.5°C | 17.4°C | 81% | 18.5 km/h | 06:28 | 21:08 |
-| 💧 Metz | Pluie modérée | 20.6°C | 19.8°C | 42% | 18.5 km/h | 06:11 | 20:53 |
-| ☁️ Madrid | Partiellement nuageux | 19.1°C | 18.6°C | 57% | 24.1 km/h | 07:11 | 21:11 |
-| 🌞 Buenos Aires | Ciel dégagé | 11.0°C | 9.7°C | 59% | 3.7 km/h | 07:30 | 18:09 |
+| ☁️ Paris | Nuageux | 18.3°C | 18.0°C | 70% | 14.8 km/h | 06:27 | 21:07 |
+| ☁️ London | Partiellement nuageux | 17.2°C | 16.6°C | 65% | 6.2 km/h | 05:28 | 20:25 |
+| ☁️ New York | Nuageux | 13.8°C | 12.1°C | 33% | 42.6 km/h | 05:52 | 19:53 |
+| 💧 Tokyo | Petites averses | 19.3°C | 19.8°C | 95% | 42.6 km/h | 04:46 | 18:29 |
+| ☁️ Sydney | Peu nuageux | 16.3°C | 16.3°C | 91% | 9.1 km/h | 06:31 | 17:12 |
+| ☁️ Besançon | Nuageux | 13.5°C | 12.7°C | 69% | 5.9 km/h | 06:16 | 20:48 |
+| 💧 Versailles | Pluie modérée | 17.3°C | 16.9°C | 67% | 11.1 km/h | 06:28 | 21:08 |
+| 🌞 Metz | Ciel dégagé | 16.6°C | 15.7°C | 55% | 16.7 km/h | 06:11 | 20:53 |
+| 🌞 Madrid | Ciel dégagé | 17.1°C | 16.5°C | 59% | 18.5 km/h | 07:11 | 21:11 |
+| 🌞 Buenos Aires | Ciel dégagé | 16.9°C | 15.8°C | 45% | 11.1 km/h | 07:30 | 18:09 |

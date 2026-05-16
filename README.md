@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 16/05/2026 à 02:03 UTC
+## Meteo actuelle - 16/05/2026 à 07:49 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Peu nuageux | 6.9°C | 5.1°C | 91% | 9.3 km/h | 06:07 | 21:26 |
-| 🌞 London | Ciel dégagé | 6.4°C | 5.7°C | 71% | 4.8 km/h | 05:07 | 20:46 |
-| 🌞 New York | Ciel dégagé | 17.0°C | 16.3°C | 60% | 11.1 km/h | 05:39 | 20:05 |
-| ☁️ Tokyo | Peu nuageux | 24.1°C | 24°C | 54% | 13.0 km/h | 04:35 | 18:39 |
-| ☁️ Sydney | Nuageux | 20.7°C | 20.9°C | 80% | 9.3 km/h | 06:40 | 17:02 |
-| ☁️ Besançon | Couvert | 3.0°C | 1.6°C | 92% | 5.5 km/h | 05:58 | 21:05 |
-| 🌞 Versailles | Ciel dégagé | 5.0°C | 2.9°C | 90% | 9.3 km/h | 06:08 | 21:26 |
-| 🌞 Metz | Ciel dégagé | 5.3°C | 2.8°C | 93% | 11.1 km/h | 05:51 | 21:11 |
-| 🌞 Madrid | Ciel dégagé | 8.3°C | 7.9°C | 64% | 4.8 km/h | 06:57 | 21:24 |
-| ☁️ Buenos Aires | Couvert | 12.9°C | 12.3°C | 79% | 15.2 km/h | 07:40 | 17:59 |
+| 🌞 Paris | Ciel dégagé | 9.9°C | 8.1°C | 76% | 13.0 km/h | 06:07 | 21:26 |
+| ☁️ London | Nuageux | 9.7°C | 8.1°C | 65% | 11.1 km/h | 05:07 | 20:46 |
+| 🌞 New York | Ciel dégagé | 12.9°C | 12.3°C | 78% | 9.3 km/h | 05:38 | 20:06 |
+| ☁️ Tokyo | Peu nuageux | 25.0°C | 24.8°C | 48% | 24.1 km/h | 04:35 | 18:39 |
+| ☁️ Sydney | Peu nuageux | 18.8°C | 19.0°C | 86% | 9.3 km/h | 06:40 | 17:02 |
+| ☁️ Besançon | Couvert | 6.8°C | 6.8°C | 90% | 4.2 km/h | 05:58 | 21:05 |
+| 🌞 Versailles | Ciel dégagé | 10.2°C | 9.3°C | 78% | 13.0 km/h | 06:08 | 21:26 |
+| ☁️ Metz | Peu nuageux | 9.4°C | 7.7°C | 71% | 11.1 km/h | 05:51 | 21:11 |
+| 🌞 Madrid | Ciel dégagé | 9.7°C | 8.4°C | 59% | 9.3 km/h | 06:57 | 21:24 |
+| 🌞 Buenos Aires | Ciel dégagé | 11.2°C | 10.4°C | 78% | 7.4 km/h | 07:40 | 17:58 |

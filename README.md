@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 20/08/2026 à 06:27 UTC
+## Meteo actuelle - 20/08/2026 à 12:26 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Peu nuageux | 16.2°C | 16.2°C | 89% | 7.4 km/h | 06:50 | 20:58 |
-| 🌞 London | Ciel dégagé | 16.0°C | 15.8°C | 82% | 20.4 km/h | 05:53 | 20:14 |
-| ☁️ New York | Partiellement nuageux | 24.1°C | 24.5°C | 73% | 7.4 km/h | 06:11 | 19:47 |
-| ☁️ Tokyo | Couvert | 32.8°C | 38.2°C | 58% | 27.8 km/h | 05:03 | 18:26 |
-| ☁️ Sydney | Couvert | 19.2°C | 19.1°C | 71% | 16.7 km/h | 06:29 | 17:28 |
-| ☁️ Besançon | Partiellement nuageux | 18.0°C | 18.0°C | 85% | 11.4 km/h | 06:38 | 20:39 |
-| ☁️ Versailles | Peu nuageux | 15.3°C | 15.3°C | 92% | 11.1 km/h | 06:51 | 20:58 |
-| ☁️ Metz | Partiellement nuageux | 17.6°C | 17.4°C | 77% | 13.0 km/h | 06:34 | 20:43 |
-| 🌞 Madrid | Ciel dégagé | 20.8°C | 20.4°C | 56% | 14.8 km/h | 07:30 | 21:06 |
-| ☁️ Buenos Aires | Couvert | 9.7°C | 9.3°C | 93% | 5.5 km/h | 07:27 | 18:26 |
+| ☁️ Paris | Nuageux | 24.4°C | 24.1°C | 49% | 31.5 km/h | 06:50 | 20:58 |
+| ☁️ London | Partiellement nuageux | 22.0°C | 21.8°C | 57% | 19.3 km/h | 05:53 | 20:14 |
+| ☁️ New York | Partiellement nuageux | 24.4°C | 24.9°C | 74% | 5.5 km/h | 06:11 | 19:47 |
+| 💧 Tokyo | Pluie modérée | 28.2°C | 31.9°C | 76% | 18.5 km/h | 05:03 | 18:26 |
+| ☁️ Sydney | Couvert | 16.8°C | 16.4°C | 68% | 14.8 km/h | 06:29 | 17:28 |
+| ☁️ Besançon | Couvert | 25.4°C | 25.7°C | 66% | 16.1 km/h | 06:38 | 20:39 |
+| ☁️ Versailles | Nuageux | 23.4°C | 23.1°C | 51% | 31.5 km/h | 06:51 | 20:58 |
+| ☁️ Metz | Nuageux | 24.0°C | 23.5°C | 41% | 25.9 km/h | 06:34 | 20:43 |
+| 🌞 Madrid | Ciel dégagé | 28.9°C | 28.1°C | 34% | 20.4 km/h | 07:30 | 21:06 |
+| ☁️ Buenos Aires | Couvert | 8.5°C | 8.5°C | 94% | 1.6 km/h | 07:27 | 18:26 |

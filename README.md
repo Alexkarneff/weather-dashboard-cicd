@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 30/08/2026 à 10:54 UTC
+## Meteo actuelle - 30/08/2026 à 15:43 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 💧 Paris | Légère pluie | 22.2°C | 22.2°C | 68% | 16.7 km/h | 07:04 | 20:38 |
-| ☁️ London | Nuageux | 21.4°C | 21.3°C | 64% | 16.7 km/h | 06:09 | 19:53 |
-| ☁️ New York | Couvert | 19.2°C | 19.2°C | 76% | 9.6 km/h | 06:21 | 19:32 |
-| ☁️ Tokyo | Partiellement nuageux | 25.3°C | 26.0°C | 82% | 11.1 km/h | 05:11 | 18:13 |
-| 🌞 Sydney | Ciel dégagé | 13.2°C | 12.4°C | 70% | 0.0 km/h | 06:17 | 17:35 |
-| ☁️ Besançon | Couvert | 23.5°C | 23.6°C | 66% | 13.7 km/h | 06:51 | 20:20 |
-| ☁️ Versailles | Couvert | 21.8°C | 21.8°C | 66% | 18.5 km/h | 07:05 | 20:39 |
-| ☁️ Metz | Couvert | 23.0°C | 22.8°C | 56% | 29.6 km/h | 06:48 | 20:23 |
-| 🌞 Madrid | Ciel dégagé | 26.8°C | 26.4°C | 33% | 9.0 km/h | 07:40 | 20:51 |
-| ☁️ Buenos Aires | Nuageux | 9.7°C | 8.1°C | 89% | 11.3 km/h | 07:15 | 18:33 |
+| ☁️ Paris | Couvert | 24.0°C | 23.8°C | 53% | 24.1 km/h | 07:04 | 20:38 |
+| ☁️ London | Couvert | 21.8°C | 21.6°C | 60% | 25.9 km/h | 06:09 | 19:53 |
+| ☁️ New York | Nuageux | 25.3°C | 25.5°C | 62% | 29.6 km/h | 06:21 | 19:32 |
+| ☁️ Tokyo | Couvert | 23.9°C | 24.7°C | 87% | 9.3 km/h | 05:12 | 18:11 |
+| 🌞 Sydney | Ciel dégagé | 10.6°C | 9.7°C | 75% | 9.3 km/h | 06:15 | 17:36 |
+| ☁️ Besançon | Nuageux | 24.1°C | 24.1°C | 59% | 11.4 km/h | 06:51 | 20:20 |
+| ☁️ Versailles | Couvert | 23.3°C | 23.0°C | 53% | 27.8 km/h | 07:05 | 20:39 |
+| ☁️ Metz | Couvert | 25.3°C | 25.1°C | 44% | 20.4 km/h | 06:48 | 20:23 |
+| 🌞 Madrid | Ciel dégagé | 31.5°C | 29.8°C | 25% | 27.8 km/h | 07:40 | 20:51 |
+| 🌞 Buenos Aires | Ciel dégagé | 17.7°C | 17.3°C | 66% | 7.9 km/h | 07:15 | 18:33 |

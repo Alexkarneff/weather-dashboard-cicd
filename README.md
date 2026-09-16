@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 16/09/2026 à 02:23 UTC
+## Meteo actuelle - 16/09/2026 à 10:29 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 🌞 Paris | Ciel dégagé | 14.9°C | 14.6°C | 82% | 16.7 km/h | 07:28 | 20:02 |
-| 🌞 London | Ciel dégagé | 13.8°C | 13.4°C | 83% | 4.8 km/h | 06:36 | 19:14 |
-| 🌞 New York | Ciel dégagé | 18.4°C | 18.2°C | 71% | 19.3 km/h | 06:36 | 19:06 |
-| 💧 Tokyo | Pluie modérée | 21.5°C | 22.1°C | 93% | 13.0 km/h | 05:24 | 17:48 |
-| ☁️ Sydney | Peu nuageux | 16.6°C | 15.5°C | 43% | 6.4 km/h | 05:53 | 17:46 |
-| 🌞 Besançon | Ciel dégagé | 17.2°C | 17.1°C | 81% | 10.7 km/h | 07:13 | 19:46 |
-| 🌞 Versailles | Ciel dégagé | 13.8°C | 13.3°C | 82% | 16.7 km/h | 07:29 | 20:03 |
-| ☁️ Metz | Partiellement nuageux | 19.5°C | 19.3°C | 68% | 18.5 km/h | 07:12 | 19:47 |
-| 🌞 Madrid | Ciel dégagé | 22.6°C | 21.7°C | 33% | 5.5 km/h | 07:56 | 20:23 |
-| ☁️ Buenos Aires | Partiellement nuageux | 9.2°C | 6.5°C | 65% | 18.5 km/h | 06:53 | 18:44 |
+| ☁️ Paris | Peu nuageux | 20.2°C | 19.9°C | 61% | 18.5 km/h | 07:28 | 20:02 |
+| ☁️ London | Peu nuageux | 17.8°C | 17.4°C | 67% | 18.5 km/h | 06:36 | 19:14 |
+| ☁️ New York | Nuageux | 17.0°C | 16.8°C | 80% | 3.2 km/h | 06:37 | 19:04 |
+| 💧 Tokyo | Forte pluie | 20.2°C | 20.8°C | 94% | 24.1 km/h | 05:24 | 17:48 |
+| 🌞 Sydney | Ciel dégagé | 13.6°C | 12.6°C | 62% | 11.3 km/h | 05:53 | 17:46 |
+| ☁️ Besançon | Couvert | 14.1°C | 13.8°C | 87% | 11.2 km/h | 07:13 | 19:46 |
+| ☁️ Versailles | Peu nuageux | 19.2°C | 18.8°C | 63% | 20.4 km/h | 07:29 | 20:03 |
+| ☁️ Metz | Partiellement nuageux | 20.8°C | 20.4°C | 60% | 24.1 km/h | 07:12 | 19:47 |
+| ☁️ Madrid | Partiellement nuageux | 22.8°C | 22.4°C | 49% | 24.1 km/h | 07:56 | 20:23 |
+| 🌞 Buenos Aires | Ciel dégagé | 6.5°C | 3.7°C | 73% | 14.8 km/h | 06:51 | 18:45 |

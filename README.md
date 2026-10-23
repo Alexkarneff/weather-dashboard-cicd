@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 22/10/2026 à 20:58 UTC
+## Meteo actuelle - 23/10/2026 à 02:34 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 💧 Paris | Légère pluie | 13.8°C | 13.4°C | 84% | 24.1 km/h | 08:21 | 18:48 |
-| ☁️ London | Couvert | 11.4°C | 10.9°C | 90% | 13.0 km/h | 07:35 | 17:53 |
-| ☁️ New York | Peu nuageux | 19.8°C | 18.6°C | 27% | 35.4 km/h | 07:14 | 18:06 |
-| ☁️ Tokyo | Partiellement nuageux | 15.1°C | 14.3°C | 64% | 14.3 km/h | 05:54 | 16:56 |
-| ☁️ Sydney | Partiellement nuageux | 18.7°C | 18.8°C | 82% | 4.8 km/h | 06:04 | 19:14 |
-| ☁️ Besançon | Couvert | 4.8°C | 2.1°C | 88% | 11.7 km/h | 08:03 | 18:36 |
-| 🌧️ Versailles | Pluie très fine | 13.1°C | 12.7°C | 85% | 29.6 km/h | 08:21 | 18:49 |
-| ☁️ Metz | Couvert | 11.3°C | 10.6°C | 82% | 24.1 km/h | 08:06 | 18:32 |
-| 🌞 Madrid | Ciel dégagé | 14.2°C | 13.2°C | 60% | 14.8 km/h | 08:32 | 19:25 |
-| 💧 Buenos Aires | Pluie modérée | 18.1°C | 18.3°C | 91% | 18.5 km/h | 06:02 | 19:13 |
+| 💧 Paris | Pluie modérée | 12.7°C | 12.2°C | 83% | 29.6 km/h | 08:22 | 18:46 |
+| ☁️ London | Couvert | 12.7°C | 12.4°C | 92% | 33.1 km/h | 07:37 | 17:51 |
+| 🌞 New York | Ciel dégagé | 14.9°C | 13.8°C | 52% | 20.9 km/h | 07:14 | 18:06 |
+| ☁️ Tokyo | Nuageux | 19.1°C | 18.5°C | 55% | 13.0 km/h | 05:54 | 16:56 |
+| ☁️ Sydney | Partiellement nuageux | 21.7°C | 21.8°C | 72% | 35.2 km/h | 06:04 | 19:14 |
+| ☁️ Besançon | Couvert | 6.2°C | 2.7°C | 90% | 19.7 km/h | 08:04 | 18:34 |
+| 💧 Versailles | Pluie modérée | 11.9°C | 11.4°C | 84% | 31.5 km/h | 08:23 | 18:47 |
+| 💧 Metz | Légère pluie | 9.6°C | 6.1°C | 81% | 29.6 km/h | 08:07 | 18:31 |
+| 🌞 Madrid | Ciel dégagé | 11.5°C | 10.7°C | 76% | 13.0 km/h | 08:33 | 19:24 |
+| 💧 Buenos Aires | Pluie modérée | 17.6°C | 17.8°C | 92% | 22.2 km/h | 06:02 | 19:13 |

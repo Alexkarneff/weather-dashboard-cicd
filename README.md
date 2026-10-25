@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 24/10/2026 à 19:58 UTC
+## Meteo actuelle - 25/10/2026 à 02:20 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| 💧 Paris | Pluie modérée | 11.6°C | 11.2°C | 94% | 31.5 km/h | 08:24 | 18:45 |
-| ☁️ London | Nuageux | 15.5°C | 15.5°C | 92% | 31.5 km/h | 07:39 | 17:49 |
-| 🌞 New York | Ciel dégagé | 17.0°C | 15.6°C | 33% | 9.3 km/h | 07:16 | 18:03 |
-| 💧 Tokyo | Forte pluie | 18.4°C | 18.8°C | 94% | 3.7 km/h | 05:55 | 16:54 |
-| 🌞 Sydney | Ciel dégagé | 19.7°C | 19.7°C | 77% | 13.0 km/h | 06:02 | 19:15 |
-| ☁️ Besançon | Couvert | 7.2°C | 3.6°C | 87% | 22.2 km/h | 08:06 | 18:32 |
-| 💧 Versailles | Pluie modérée | 10.9°C | 10.5°C | 95% | 42.6 km/h | 08:25 | 18:46 |
-| 💧 Metz | Pluie modérée | 9.5°C | 5.8°C | 87% | 31.5 km/h | 08:09 | 18:29 |
-| 🌞 Madrid | Ciel dégagé | 14.4°C | 13.2°C | 50% | 14.8 km/h | 08:35 | 19:22 |
-| 💧 Buenos Aires | Légère pluie | 16.6°C | 16.1°C | 72% | 20.4 km/h | 06:00 | 19:14 |
+| 🌧️ Paris | Bruine légère | 14.8°C | 14.8°C | 94% | 35.2 km/h | 07:25 | 17:43 |
+| ☁️ London | Nuageux | 10.8°C | 10.1°C | 82% | 24.1 km/h | 06:41 | 16:47 |
+| 🌞 New York | Ciel dégagé | 12.5°C | 11.4°C | 61% | 5.5 km/h | 07:16 | 18:03 |
+| ☁️ Tokyo | Nuageux | 24.9°C | 25.6°C | 83% | 31.5 km/h | 05:55 | 16:54 |
+| 🌞 Sydney | Ciel dégagé | 31.9°C | 33.4°C | 46% | 29.6 km/h | 06:02 | 19:15 |
+| ☁️ Besançon | Couvert | 9.6°C | 5.9°C | 84% | 32.9 km/h | 07:07 | 17:30 |
+| 🌧️ Versailles | Bruine légère | 14.1°C | 14.1°C | 95% | 40.8 km/h | 07:26 | 17:44 |
+| 💧 Metz | Pluie modérée | 9.6°C | 5.1°C | 93% | 46.3 km/h | 07:11 | 17:27 |
+| 🌞 Madrid | Ciel dégagé | 10.4°C | 9.2°C | 64% | 5.5 km/h | 07:36 | 18:21 |
+| 🌞 Buenos Aires | Ciel dégagé | 13.6°C | 13.1°C | 79% | 16.7 km/h | 06:00 | 19:14 |

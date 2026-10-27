@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 26/10/2026 à 22:06 UTC
+## Meteo actuelle - 27/10/2026 à 02:55 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Couvert | 14.2°C | 14.1°C | 92% | 13.0 km/h | 07:27 | 17:41 |
-| ☁️ London | Couvert | 16.6°C | 16.5°C | 85% | 24.1 km/h | 06:42 | 16:45 |
-| 🌞 New York | Ciel dégagé | 20.2°C | 19.4°C | 44% | 16.7 km/h | 07:19 | 18:00 |
-| 💧 Tokyo | Pluie modérée | 15.6°C | 15.6°C | 94% | 20.4 km/h | 05:57 | 16:52 |
-| ☁️ Sydney | Nuageux | 19.0°C | 18.8°C | 70% | 9.3 km/h | 06:00 | 19:17 |
-| ☁️ Besançon | Couvert | 9.1°C | 7.9°C | 93% | 8.3 km/h | 07:09 | 17:29 |
-| ☁️ Versailles | Couvert | 13.8°C | 13.6°C | 92% | 18.5 km/h | 07:28 | 17:42 |
-| ☁️ Metz | Couvert | 10.7°C | 10.2°C | 93% | 18.5 km/h | 07:12 | 17:25 |
-| 🌞 Madrid | Ciel dégagé | 15.0°C | 14.1°C | 60% | 6.0 km/h | 07:37 | 18:19 |
-| 🌞 Buenos Aires | Ciel dégagé | 14.9°C | 14.2°C | 69% | 14.8 km/h | 05:58 | 19:16 |
+| ☁️ Paris | Couvert | 14.7°C | 14.7°C | 91% | 20.4 km/h | 07:29 | 17:39 |
+| ☁️ London | Nuageux | 16.1°C | 16.1°C | 87% | 27.8 km/h | 06:44 | 16:43 |
+| 🌞 New York | Ciel dégagé | 17.1°C | 16.3°C | 57% | 9.3 km/h | 07:19 | 18:00 |
+| ☁️ Tokyo | Nuageux | 20.7°C | 20.8°C | 76% | 5.5 km/h | 05:57 | 16:52 |
+| ☁️ Sydney | Partiellement nuageux | 22.8°C | 22.6°C | 59% | 24.1 km/h | 06:00 | 19:17 |
+| 🌞 Besançon | Ciel dégagé | 5.2°C | 3.9°C | 94% | 6.2 km/h | 07:10 | 17:27 |
+| ☁️ Versailles | Couvert | 14.1°C | 14.0°C | 92% | 20.4 km/h | 07:29 | 17:40 |
+| ☁️ Metz | Couvert | 10.7°C | 10.3°C | 93% | 18.5 km/h | 07:14 | 17:23 |
+| 🌞 Madrid | Ciel dégagé | 12.5°C | 11.4°C | 62% | 7.0 km/h | 07:38 | 18:18 |
+| ☁️ Buenos Aires | Couvert | 12.4°C | 11.8°C | 82% | 11.7 km/h | 05:58 | 19:16 |

@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 04/11/2026 à 22:59 UTC
+## Meteo actuelle - 05/11/2026 à 04:16 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Couvert | 7.8°C | 4.8°C | 74% | 18.5 km/h | 07:41 | 17:26 |
-| ☁️ London | Couvert | 9.2°C | 7.5°C | 83% | 11.1 km/h | 06:58 | 16:29 |
-| 🌞 New York | Ciel dégagé | 19.3°C | 19.2°C | 71% | 19.3 km/h | 06:29 | 16:49 |
-| 💧 Tokyo | Légère pluie | 13.3°C | 13.1°C | 94% | 35.2 km/h | 06:06 | 16:43 |
-| ☁️ Sydney | Peu nuageux | 20.5°C | 19.6°C | 41% | 35.2 km/h | 05:51 | 19:25 |
-| ☁️ Besançon | Partiellement nuageux | 3.8°C | 1.9°C | 90% | 7.6 km/h | 07:22 | 17:15 |
-| ☁️ Versailles | Couvert | 7.0°C | 3.8°C | 75% | 18.5 km/h | 07:42 | 17:27 |
-| 🌞 Metz | Ciel dégagé | 5.7°C | 1.9°C | 75% | 20.4 km/h | 07:27 | 17:10 |
-| 🌞 Madrid | Ciel dégagé | 8.2°C | 5.8°C | 68% | 15.0 km/h | 07:47 | 18:08 |
-| 🌞 Buenos Aires | Ciel dégagé | 19.2°C | 18.7°C | 58% | 12.7 km/h | 05:48 | 19:25 |
+| 🌞 Paris | Ciel dégagé | 5.2°C | 2°C | 84% | 14.8 km/h | 07:43 | 17:24 |
+| ☁️ London | Couvert | 9.1°C | 7.4°C | 80% | 11.3 km/h | 07:00 | 16:27 |
+| 🌞 New York | Ciel dégagé | 16.8°C | 17.0°C | 91% | 9.6 km/h | 06:29 | 16:49 |
+| 🌁 Tokyo | Brume | 15.3°C | 15.3°C | 92% | 27.8 km/h | 06:06 | 16:43 |
+| ☁️ Sydney | Peu nuageux | 22.5°C | 22.2°C | 52% | 28.0 km/h | 05:51 | 19:25 |
+| 🌞 Besançon | Ciel dégagé | -1.2°C | -1.2°C | 93% | 4.7 km/h | 07:24 | 17:13 |
+| 🌞 Versailles | Ciel dégagé | 4.4°C | 1.1°C | 84% | 14.8 km/h | 07:44 | 17:25 |
+| 🌞 Metz | Ciel dégagé | 4.5°C | 0.4°C | 81% | 20.4 km/h | 07:28 | 17:08 |
+| 🌞 Madrid | Ciel dégagé | 6.1°C | 3.2°C | 72% | 15.0 km/h | 07:48 | 18:07 |
+| 🌞 Buenos Aires | Ciel dégagé | 15.7°C | 15.2°C | 71% | 19.9 km/h | 05:48 | 19:26 |

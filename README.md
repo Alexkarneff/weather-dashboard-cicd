@@ -3,17 +3,17 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 20/11/2026 à 14:36 UTC
+## Meteo actuelle - 20/11/2026 à 23:29 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent | 🌅 Lever | 🌇 Coucher |
 |-------|-------|------|----------|----------|------|----------|------------|
-| ☁️ Paris | Nuageux | 11.9°C | 11.2°C | 79% | 31.5 km/h | 08:07 | 17:05 |
-| ☁️ London | Peu nuageux | 9.6°C | 8.0°C | 76% | 11.1 km/h | 07:26 | 16:05 |
-| 🌞 New York | Ciel dégagé | 13.7°C | 12.5°C | 50% | 9.3 km/h | 06:48 | 16:34 |
-| 🌞 Tokyo | Ciel dégagé | 10.1°C | 8.3°C | 44% | 25.9 km/h | 06:21 | 16:32 |
-| 💧 Sydney | Averses de pluie | 19.8°C | 20.2°C | 92% | 22.2 km/h | 05:40 | 19:41 |
-| ☁️ Besançon | Nuageux | 10.2°C | 9.2°C | 75% | 28.5 km/h | 07:46 | 16:55 |
-| ☁️ Versailles | Couvert | 11.2°C | 10.5°C | 79% | 31.5 km/h | 08:07 | 17:06 |
-| 💧 Metz | Forte pluie | 10.5°C | 9.8°C | 87% | 35.2 km/h | 07:52 | 16:49 |
-| ☁️ Madrid | Partiellement nuageux | 13.0°C | 12.4°C | 78% | 13.0 km/h | 08:06 | 17:54 |
-| 🌞 Buenos Aires | Ciel dégagé | 24.6°C | 24.7°C | 59% | 7.4 km/h | 05:37 | 19:40 |
+| ☁️ Paris | Nuageux | 8.6°C | 7.1°C | 91% | 9.3 km/h | 08:08 | 17:04 |
+| ☁️ London | Partiellement nuageux | 4.5°C | 4.5°C | 84% | 2.1 km/h | 07:26 | 16:05 |
+| 🌞 New York | Ciel dégagé | 15.6°C | 14.7°C | 58% | 5.5 km/h | 06:48 | 16:34 |
+| ☁️ Tokyo | Peu nuageux | 9.1°C | 7.1°C | 55% | 13.0 km/h | 06:22 | 16:31 |
+| 💧 Sydney | Légère pluie | 26.7°C | 28.1°C | 66% | 16.7 km/h | 05:40 | 19:41 |
+| ☁️ Besançon | Couvert | 8.5°C | 5.5°C | 84% | 19.9 km/h | 07:47 | 16:54 |
+| 🌞 Versailles | Ciel dégagé | 7.8°C | 6.2°C | 92% | 9.3 km/h | 08:09 | 17:05 |
+| ☁️ Metz | Couvert | 8.1°C | 5.7°C | 93% | 14.8 km/h | 07:54 | 16:48 |
+| 🌞 Madrid | Ciel dégagé | 10.8°C | 10.3°C | 88% | 5.5 km/h | 08:07 | 17:53 |
+| ☁️ Buenos Aires | Couvert | 21.2°C | 21.2°C | 72% | 2.1 km/h | 05:37 | 19:40 |
